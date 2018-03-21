@@ -4,3 +4,5 @@ ggplot(diamonds, aes(x = cut))+
 library(ggplot2)
 ggplot(diamonds, aes(x = cut))+
   geom_bar()
+
+ggplot(dimaonds, aes (x = currat))
